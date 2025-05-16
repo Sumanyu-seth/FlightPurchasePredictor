@@ -13,3 +13,5 @@ Exportable prediction model and label encoders for deployment
 Modular design for easy integration into airline websites or analytics platforms
 
 Ideal for airline companies looking to optimize marketing strategies, improve conversion rates, or personalize customer experiences using data-driven insights.
+
+I had a pre downloaded file to train the model "customer_booking".
